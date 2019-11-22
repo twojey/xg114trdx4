@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>hello_world</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="12.1.2" />
+    <PackageReference Include="Microsoft.VisualBasic" Version="10.3.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\..\core\src\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\..\core\src\packages\Iesi.Collections.4.0.1.4000\lib\net40\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="KitchenPC">
+      <HintPath>..\..\core\src\UnitTests\bin\Debug\KitchenPC.dll</HintPath>
+    </Reference>
+    <Reference Include="KitchenPC.UnitTests">
+      <HintPath>..\..\core\src\UnitTests\bin\Debug\KitchenPC.UnitTests.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\core\src\UnitTests\bin\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <HintPath>bin\Debug\netcoreapp2.1\Microsoft.VisualBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\..\core\src\packages\NHibernate.4.0.4.4000\lib\net40\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>..\..\core\src\UnitTests\bin\Debug\nunit.framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

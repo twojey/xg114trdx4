@@ -1,0 +1,29 @@
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\hello world.deps.json
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\hello world.runtimeconfig.json
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\hello world.runtimeconfig.dev.json
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\hello world.dll
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\hello world.pdb
+C:\Users\Moi\source\repos\hello world\hello world\obj\Debug\netcoreapp2.1\hello world.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\hello world\hello world\obj\Debug\netcoreapp2.1\hello world.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\hello world\hello world\obj\Debug\netcoreapp2.1\hello world.AssemblyInfoInputs.cache
+C:\Users\Moi\source\repos\hello world\hello world\obj\Debug\netcoreapp2.1\hello world.AssemblyInfo.cs
+C:\Users\Moi\source\repos\hello world\hello world\obj\Debug\netcoreapp2.1\hello world.dll
+C:\Users\Moi\source\repos\hello world\hello world\obj\Debug\netcoreapp2.1\hello world.pdb
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\FluentNHibernate.dll
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\KitchenPC.dll
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\KitchenPC.UnitTests.dll
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\log4net.dll
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\nunit.framework.dll
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\FluentNHibernate.pdb
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\FluentNHibernate.xml
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\KitchenPC.pdb
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\KitchenPC.UnitTests.pdb
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\log4net.xml
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\nunit.framework.xml
+C:\Users\Moi\source\repos\hello world\hello world\obj\Debug\netcoreapp2.1\hello world.csproj.CopyComplete
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\hello world.dll.config
+C:\Users\Moi\source\repos\hello world\hello world\obj\Debug\netcoreapp2.1\hello world.dll.config
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\Iesi.Collections.dll
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\NHibernate.dll
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\Iesi.Collections.xml
+C:\Users\Moi\source\repos\hello world\hello world\bin\Debug\netcoreapp2.1\NHibernate.xml
